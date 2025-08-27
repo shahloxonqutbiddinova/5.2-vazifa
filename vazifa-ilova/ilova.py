@@ -9,6 +9,7 @@ def menyu():
     print("3 - Vazifani o‘chirish")
     print("0 - Chiqish")
 
+
 def main():
     filename = "malumotlar.txt"
     tasks = load_tasks(filename)
